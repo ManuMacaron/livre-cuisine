@@ -9,7 +9,6 @@ temps_de_repos: "30 min"
 difficulté: "Difficile"
 portions: 20 macarons
 catégorie: "Dessert"
-favori: false
 coût: "€€"
 tags:
   - raffiné
@@ -33,6 +32,8 @@ conseils:
     douille 8 ou 10."
   - "Séparer les blancs d'oeufs la veille et les laisser revenir à température
     ambiante dans une boîte hermétique."
+favori: false
+source: "https://patissland.fr/blogs/blog-de-recettes-patissland/recette-des-macarons-inratables"
 ---
 
 # Préparation
