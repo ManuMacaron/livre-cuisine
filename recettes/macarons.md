@@ -59,10 +59,10 @@ source: "https://patissland.fr/blogs/blog-de-recettes-patissland/recette-des-mac
    d’amande. Vous devez soulever l’appareil des bords vers le centre, en raclant
    le fond et les bords. Ajouter le reste de la meringue de la même façon.
    N’hésitez pas à écraser l’appareil, il faut y mettre un peu de force.
-   Vérifier la consistance en soulevant l’appareil, ne pas trop le travailler. Vous
-   devez obtenir un « ruban », c’est-à-dire un appareil ni liquide ni épais qui
-   retombe sans « casser ». Si vous coupez la pâte, elle se remet doucement en
-   place sans laisser de trace.
+   Vérifier la consistance en soulevant l’appareil, ne pas trop le travailler.
+   Vous devez obtenir un « ruban », c’est-à-dire un appareil ni liquide ni épais
+   qui retombe sans « casser ». Si vous coupez la pâte, elle se remet doucement
+   en place sans laisser de trace.
 8. Verser l’appareil dans la poche à douille, puis pocher les macarons. Vous
    pouvez utiliser un tapis à macaron pour obtenir des coques de même dimension.
 9. Soulever la plaque puis la relâcher sur la table pour faire éclater les
@@ -94,6 +94,6 @@ source: "https://patissland.fr/blogs/blog-de-recettes-patissland/recette-des-mac
 1. Positionner les macarons sur la table de travail, par paire.
 2. Pocher la ganache dans toutes les coques prévues à cet effet.
 3. Poser la deuxième coque par-dessus pour refermer le macaron.
-4. Conserver au frais dans une boîte en position « debout » sur la collerette (la
-   partie rugueuse de la coque autour de la ganache) au moins 24 h, sortir du
-   frais au moins 30 min avant dégustation.
+4. Conserver au frais dans une boîte en position « debout » sur la collerette
+   (la partie rugueuse de la coque autour de la ganache) au moins 24 h, sortir
+   du frais au moins 30 min avant dégustation.
